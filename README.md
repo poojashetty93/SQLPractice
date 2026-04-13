@@ -1,0 +1,2 @@
+# SQLPractice
+learning SQL
